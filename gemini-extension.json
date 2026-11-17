@@ -1,0 +1,11 @@
+{
+  "name": "turbotrader",
+  "version": "1.0.0",
+  "description": "TurboTrader MCP integration for TTC and BOW trading brokers.",
+  "mcpServers": {
+    "turbotrader": {
+      "httpUrl": "https://mcp.nscript.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
